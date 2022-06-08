@@ -2,7 +2,7 @@ Olá, Eu sou o Neemias.
 
 
 - 🔭 Atualmente estou apenas desenvolvendo projetos pessoais e em busca da minha primeira experiência profissional.
-- 🌱 Estudando tecnologias para desenvolvimento front-end.
+- 🌱 No momento estudando tecnologias para desenvolvimento Mobile, no Bootcamp Santander Dio 2022. 
 - ⚡ Sou muito bom no CS:GO, sinto muito.
 
 <div align="center">
